@@ -1,0 +1,709 @@
+[
+  {
+    "turkishWord": "hafta",
+    "englishWord": "week",
+    "turkishSentence": "Bir haftada yedi gün vardır.",
+    "englishSentence": "There are seven days in a week.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22019_96square.jpg"
+  },
+  {
+    "turkishWord": "yıl",
+    "englishWord": "year",
+    "turkishSentence": "bir yıl",
+    "englishSentence": "one year",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22020_96square.jpg"
+  },
+  {
+    "turkishWord": "bugün",
+    "englishWord": "today",
+    "turkishSentence": "Bugün 6:15'de",
+    "englishSentence": "today at 6:15",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22014_96square.jpg"
+  },
+  {
+    "turkishWord": "yarın",
+    "englishWord": "tomorrow",
+    "turkishSentence": "Yarın görüşürüz!",
+    "englishSentence": "See you tomorrow!",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22015_96square.jpg"
+  },
+  {
+    "turkishWord": "dün",
+    "englishWord": "yesterday",
+    "turkishSentence": "Dün, işten izin aldım.",
+    "englishSentence": "I took a day off yesterday.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22016_96square.jpg"
+  },
+  {
+    "turkishWord": "takvim",
+    "englishWord": "calendar",
+    "turkishSentence": "Bizim yıl dönümümüzü takvimde işaretledim.",
+    "englishSentence": "I marked our anniversary on the calendar.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21796_96square.jpg"
+  },
+  {
+    "turkishWord": "saniye",
+    "englishWord": "second",
+    "turkishSentence": "Kronometrede elli sekiz saniye kaldı.",
+    "englishSentence": "There are fifty eight seconds left on the stopwatch.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22047_96square.jpg"
+  },
+  {
+    "turkishWord": "saat",
+    "englishWord": "hour",
+    "turkishSentence": "Bir saatte 60 dakika vardır.",
+    "englishSentence": "There are 60 minutes in an hour.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22041_96square.jpg"
+  },
+  {
+    "turkishWord": "dakika",
+    "englishWord": "minute",
+    "turkishSentence": "Bir dakikada altmış saniye vardır.",
+    "englishSentence": "There are sixty seconds in a minute.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22043_96square.jpg"
+  },
+  {
+    "turkishWord": "saat",
+    "englishWord": "o'clock",
+    "turkishSentence": "(adv)",
+    "englishSentence": "o'clock",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22044_96square.jpg"
+  },
+  {
+    "turkishWord": "saat",
+    "englishWord": "clock",
+    "turkishSentence": "Duvar saati duvarda asılı duruyor.",
+    "englishSentence": "The wall clock is hanging on the wall.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/20235_96square.jpg"
+  },
+  {
+    "turkishWord": "Yapabilmek",
+    "englishWord": "can",
+    "turkishSentence": "Üzerinden atlayabilir",
+    "englishSentence": "can jump over",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9008_96square.jpg"
+  },
+  {
+    "turkishWord": "kullanmak",
+    "englishWord": "use",
+    "turkishSentence": "Programcı, bilgisayarı kullanır.",
+    "englishSentence": "The programmer uses the computer.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17270_96square.jpg"
+  },
+  {
+    "turkishWord": "Yapmak",
+    "englishWord": "do",
+    "turkishSentence": "Kadın ev işi yapar.",
+    "englishSentence": "The woman does housework.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9432_96square.jpg"
+  },
+  {
+    "turkishWord": "gitmek",
+    "englishWord": "go",
+    "turkishSentence": "Dümdüz gitmek",
+    "englishSentence": "go straight ahead",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9499_96square.jpg"
+  },
+  {
+    "turkishWord": "Gelmek",
+    "englishWord": "come",
+    "turkishSentence": "Kız, kameraya doğru geldi.",
+    "englishSentence": "The girl came towards the video camera.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9189_96square.jpg"
+  },
+  {
+    "turkishWord": "gülmek",
+    "englishWord": "laugh",
+    "turkishSentence": "Çift, bir şakaya güler.",
+    "englishSentence": "The couple laughs at a joke.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9527_96square.jpg"
+  },
+  {
+    "turkishWord": "yapmak",
+    "englishWord": "make",
+    "turkishSentence": "Şef, portakal suyu yaptı",
+    "englishSentence": "The chef made orange juice.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8742_96square.jpg"
+  },
+  {
+    "turkishWord": "görmek",
+    "englishWord": "see",
+    "turkishSentence": "Turistler günbatımını gördüler.",
+    "englishSentence": "The tourists saw the sunset.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17269_96square.jpg"
+  },
+  {
+    "turkishWord": "uzak",
+    "englishWord": "far",
+    "turkishSentence": "İstasyon buradan çok uzak.",
+    "englishSentence": "The station is far from here.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8065_96square.jpg"
+  },
+  {
+    "turkishWord": "küçük",
+    "englishWord": "small",
+    "turkishSentence": "çok küçük",
+    "englishSentence": "very small",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21795_96square.jpg"
+  },
+  {
+    "turkishWord": "iyi",
+    "englishWord": "good",
+    "turkishSentence": "Sebzeler senin için iyidir.",
+    "englishSentence": "Vegetables are good for you.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/16933_96square.jpg"
+  },
+  {
+    "turkishWord": "güzel",
+    "englishWord": "beautiful",
+    "turkishSentence": "O, güzel.",
+    "englishSentence": "She is beautiful.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9658_96square.jpg"
+  },
+  {
+    "turkishWord": "çirkin",
+    "englishWord": "ugly",
+    "turkishSentence": "çirkin figür",
+    "englishSentence": "ugly figure",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8197_96square.jpg"
+  },
+  {
+    "turkishWord": "zor",
+    "englishWord": "difficult",
+    "turkishSentence": "İngilizce zor.",
+    "englishSentence": "English is difficult.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17227_96square.jpg"
+  },
+  {
+    "turkishWord": "kolay",
+    "englishWord": "easy",
+    "turkishSentence": "(adj)",
+    "englishSentence": "easy",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8717_96square.jpg"
+  },
+  {
+    "turkishWord": "kötü",
+    "englishWord": "bad",
+    "turkishSentence": "Adam kötü.",
+    "englishSentence": "The man is bad.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8487_96square.jpg"
+  },
+  {
+    "turkishWord": "yakın",
+    "englishWord": "near",
+    "turkishSentence": "Ben üniversitenin yakınında yaşıyorum.",
+    "englishSentence": "I live near the university.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/18750_96square.jpg"
+  },
+  {
+    "turkishWord": "Tanıştığımıza memnun oldum.",
+    "englishWord": "Nice to meet you.",
+    "turkishSentence": "Tanıştığımıza memnun oldum.",
+    "englishSentence": "Nice to meet you.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21965_96square.jpg"
+  },
+  {
+    "turkishWord": "Merhaba.",
+    "englishWord": "Hello.",
+    "turkishSentence": "Merhaba.",
+    "englishSentence": "Hello.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21643_96square.jpg"
+  },
+  {
+    "turkishWord": "Günaydın.",
+    "englishWord": "Good morning.",
+    "turkishSentence": "Günaydın.",
+    "englishSentence": "Good morning.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17247_96square.jpg"
+  },
+  {
+    "turkishWord": "İyi günler.",
+    "englishWord": "Good afternoon.",
+    "turkishSentence": "İyi günler.",
+    "englishSentence": "Good afternoon.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21648_96square.jpg"
+  },
+  {
+    "turkishWord": "İyi akşamlar.",
+    "englishWord": "Good evening.",
+    "turkishSentence": "İyi akşamlar.",
+    "englishSentence": "Good evening.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21963_96square.jpg"
+  },
+  {
+    "turkishWord": "İyi geceler.",
+    "englishWord": "Good night.",
+    "turkishSentence": "İyi geceler.",
+    "englishSentence": "Good night.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21964_96square.jpg"
+  },
+  {
+    "turkishWord": "Nasılsın?",
+    "englishWord": "How are you?",
+    "turkishSentence": "Nasılsın?",
+    "englishSentence": "How are you?",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/10083_96square.jpg"
+  },
+  {
+    "turkishWord": "Teşekkür ederim.",
+    "englishWord": "Thank you!",
+    "turkishSentence": "teşekkür ederim ama",
+    "englishSentence": "thank you, but",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/14992_96square.jpg"
+  },
+  {
+    "turkishWord": "Hayır.",
+    "englishWord": "No.",
+    "turkishSentence": "(adv)",
+    "englishSentence": "No.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21966_96square.jpg"
+  },
+  {
+    "turkishWord": "Leziz!",
+    "englishWord": "Delicious!",
+    "turkishSentence": "Leziz!",
+    "englishSentence": "Delicious!",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/10146_96square.jpg"
+  },
+  {
+    "turkishWord": "Ben......",
+    "englishWord": "I'm...(name).",
+    "turkishSentence": "Ben......",
+    "englishSentence": "I'm...(name).",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9898_96square.jpg"
+  },
+  {
+    "turkishWord": "Güle güle.",
+    "englishWord": "Goodbye.",
+    "turkishSentence": "Güle güle.",
+    "englishSentence": "Goodbye.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21968_96square.jpg"
+  },
+  {
+    "turkishWord": "Evet.",
+    "englishWord": "Yes.",
+    "turkishSentence": "Evet.",
+    "englishSentence": "Yes.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/14816_96square.jpg"
+  },
+  {
+    "turkishWord": "Pazartesi",
+    "englishWord": "Monday",
+    "turkishSentence": "Pazartesi, Salı, Çarşamba, Perşembe ve Cuma hafta içi günleridir.",
+    "englishSentence": "Monday, Tuesday, Wednesday, Thursday and Friday are weekdays.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22038_96square.jpg"
+  },
+  {
+    "turkishWord": "Salı",
+    "englishWord": "Tuesday",
+    "turkishSentence": "Gelecek hafta Salı",
+    "englishSentence": "Tuesday next week",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22039_96square.jpg"
+  },
+  {
+    "turkishWord": "Çarşamba",
+    "englishWord": "Wednesday",
+    "turkishSentence": "18'i Çarşamba",
+    "englishSentence": "Wednesday the 18th",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22037_96square.jpg"
+  },
+  {
+    "turkishWord": "Perşembe",
+    "englishWord": "Thursday",
+    "turkishSentence": "Perşembe günü",
+    "englishSentence": "on Thursday",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22033_96square.jpg"
+  },
+  {
+    "turkishWord": "Cuma",
+    "englishWord": "Friday",
+    "turkishSentence": "Cuma günkü planları takvime yaz.",
+    "englishSentence": "Write the plans for Friday on the calendar.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22035_96square.jpg"
+  },
+  {
+    "turkishWord": "Cumartesi",
+    "englishWord": "Saturday",
+    "turkishSentence": "Cumartesi için bir plan yok",
+    "englishSentence": "no plans for Saturday",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22036_96square.jpg"
+  },
+  {
+    "turkishWord": "Pazar",
+    "englishWord": "Sunday",
+    "turkishSentence": "17'si Pazar",
+    "englishSentence": "Sunday the 17th",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22034_96square.jpg"
+  },
+  {
+    "turkishWord": "Mayıs",
+    "englishWord": "May",
+    "turkishSentence": "Mayıs çiçekleri",
+    "englishSentence": "May flowers",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22029_96square.jpg"
+  },
+  {
+    "turkishWord": "Ocak",
+    "englishWord": "January",
+    "turkishSentence": "Salı, 1 Ocak",
+    "englishSentence": "Tuesday, January 1st",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22025_96square.jpg"
+  },
+  {
+    "turkishWord": "Şubat",
+    "englishWord": "February",
+    "turkishSentence": "Artık gün, Şubat'ın 29'udur.",
+    "englishSentence": "Leap year day is February 29th.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22024_96square.jpg"
+  },
+  {
+    "turkishWord": "Mart",
+    "englishWord": "March",
+    "turkishSentence": "Mart Kuzey yarım kürede baharın, güney yarım kürede sonbaharın başlangıcına işaret eder.",
+    "englishSentence": "March marks the start of Spring in the northen hemisphere and fall in the southern hemisphere.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22028_96square.jpg"
+  },
+  {
+    "turkishWord": "Nisan",
+    "englishWord": "April",
+    "turkishSentence": "Nisan yağmurları, Mayıs çiçeklerini getirir.",
+    "englishSentence": "April showers bring May flowers.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22021_96square.jpg"
+  },
+  {
+    "turkishWord": "Haziran",
+    "englishWord": "June",
+    "turkishSentence": "Biz haziranda evleniyoruz.",
+    "englishSentence": "We are getting married in June.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22027_96square.jpg"
+  },
+  {
+    "turkishWord": "temmuz",
+    "englishWord": "July",
+    "turkishSentence": "Temmuz ayı",
+    "englishSentence": "month of July",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22026_96square.jpg"
+  },
+  {
+    "turkishWord": "Ağustos",
+    "englishWord": "August",
+    "turkishSentence": "Ağustos ayı genellikle sıcak olur ama bugün gerçekten sıcak.",
+    "englishSentence": "It's usually hot in August, but today it's really hot.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22022_96square.jpg"
+  },
+  {
+    "turkishWord": "Eylül",
+    "englishWord": "September",
+    "turkishSentence": "Eylülde kuzey yarım kürede sonbahar, güney yarım kürede ilkbahar başlar.",
+    "englishSentence": "In September, fall begins in the northern hemisphere and spring in the southern hemisphere.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22032_96square.jpg"
+  },
+  {
+    "turkishWord": "Ekim",
+    "englishWord": "October",
+    "turkishSentence": "Cadılar bayramı Ekim'in 31'ine denk gelir.",
+    "englishSentence": "Halloween falls on October 31st.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22031_96square.jpg"
+  },
+  {
+    "turkishWord": "Kasım",
+    "englishWord": "November",
+    "turkishSentence": "Şükran günü,24 Kasım Perşembe",
+    "englishSentence": "Thanksgiving, Thursday November 24th",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22030_96square.jpg"
+  },
+  {
+    "turkishWord": "Aralık",
+    "englishWord": "December",
+    "turkishSentence": "Cuma,8 Aralık",
+    "englishSentence": "Friday, December 8th",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8754_96square.jpg"
+  },
+  {
+    "turkishWord": "sıfır",
+    "englishWord": "zero",
+    "turkishSentence": "sıfır numara",
+    "englishSentence": "number zero",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/10304_96square.jpg"
+  },
+  {
+    "turkishWord": "bir",
+    "englishWord": "one",
+    "turkishSentence": "bir derece",
+    "englishSentence": "one degree",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8873_96square.jpg"
+  },
+  {
+    "turkishWord": "iki",
+    "englishWord": "two",
+    "turkishSentence": "İki benim favori sayım.",
+    "englishSentence": "The number two is my favorite number.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9077_96square.jpg"
+  },
+  {
+    "turkishWord": "üç",
+    "englishWord": "three",
+    "turkishSentence": "üç derece",
+    "englishSentence": "three degrees",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9718_96square.jpg"
+  },
+  {
+    "turkishWord": "dört",
+    "englishWord": "four",
+    "turkishSentence": "dört derece",
+    "englishSentence": "four degrees",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9466_96square.jpg"
+  },
+  {
+    "turkishWord": "beş",
+    "englishWord": "five",
+    "turkishSentence": "beş derece",
+    "englishSentence": "five degrees",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8167_96square.jpg"
+  },
+  {
+    "turkishWord": "altı",
+    "englishWord": "six",
+    "turkishSentence": "altı derece",
+    "englishSentence": "six degrees",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9140_96square.jpg"
+  },
+  {
+    "turkishWord": "yedi",
+    "englishWord": "seven",
+    "turkishSentence": "yedi şey",
+    "englishSentence": "seven things",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9424_96square.jpg"
+  },
+  {
+    "turkishWord": "sekiz",
+    "englishWord": "eight",
+    "turkishSentence": "sekiz derece",
+    "englishSentence": "eight degrees",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9473_96square.jpg"
+  },
+  {
+    "turkishWord": "dokuz",
+    "englishWord": "nine",
+    "turkishSentence": "dokuz derece",
+    "englishSentence": "nine degrees",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8833_96square.jpg"
+  },
+  {
+    "turkishWord": "on",
+    "englishWord": "ten",
+    "turkishSentence": "on derece",
+    "englishSentence": "ten degrees",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9088_96square.jpg"
+  },
+  {
+    "turkishWord": "kahve",
+    "englishWord": "coffee",
+    "turkishSentence": "Kahve sürahisi hala kahve dolu.",
+    "englishSentence": "The coffee pot is full of coffee.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9158_96square.jpg"
+  },
+  {
+    "turkishWord": "bira",
+    "englishWord": "beer",
+    "turkishSentence": "Barmen bir fıçı bira dolduruyor.",
+    "englishSentence": "The bartender is pouring a draft beer.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/10485_96square.jpg"
+  },
+  {
+    "turkishWord": "çay",
+    "englishWord": "tea",
+    "turkishSentence": "Poşet çay",
+    "englishSentence": "tea bag",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22101_96square.jpg"
+  },
+  {
+    "turkishWord": "şarap",
+    "englishWord": "wine",
+    "turkishSentence": "Bir bardak şarap",
+    "englishSentence": "glass of wine",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/22104_96square.jpg"
+  },
+  {
+    "turkishWord": "su",
+    "englishWord": "water",
+    "turkishSentence": "Su alabilir miyim, lütfen?",
+    "englishSentence": "Can I have some water, please?",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9628_96square.jpg"
+  },
+  {
+    "turkishWord": "sığır eti",
+    "englishWord": "beef",
+    "turkishSentence": "Bu sığır eti çok lezzetli.",
+    "englishSentence": "This beef is very delicious.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8664_96square.jpg"
+  },
+  {
+    "turkishWord": "domuz eti",
+    "englishWord": "pork",
+    "turkishSentence": "domuz rostosu",
+    "englishSentence": "pork roast",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8081_96square.jpg"
+  },
+  {
+    "turkishWord": "tavuk",
+    "englishWord": "chicken",
+    "turkishSentence": "Adam tavuğu kesiyor.",
+    "englishSentence": "The man is cutting chicken.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/10126_96square.jpg"
+  },
+  {
+    "turkishWord": "kuzu eti",
+    "englishWord": "lamb",
+    "turkishSentence": "Kuzu eti son derece lezzetli.",
+    "englishSentence": "Lamb is extremely delicious.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/15190_96square.jpg"
+  },
+  {
+    "turkishWord": "balık",
+    "englishWord": "fish",
+    "turkishSentence": "çiğ balık",
+    "englishSentence": "raw fish",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/15728_96square.jpg"
+  },
+  {
+    "turkishWord": "ayak",
+    "englishWord": "foot",
+    "turkishSentence": "sol ayak",
+    "englishSentence": "left foot",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8374_96square.jpg"
+  },
+  {
+    "turkishWord": "bacak",
+    "englishWord": "leg",
+    "turkishSentence": "uzun bacaklar",
+    "englishSentence": "long legs",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8542_96square.jpg"
+  },
+  {
+    "turkishWord": "kafa",
+    "englishWord": "head",
+    "turkishSentence": "Kafanı korumak için bir kask giy.",
+    "englishSentence": "Wear a helmet to protect your head.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21800_96square.jpg"
+  },
+  {
+    "turkishWord": "kol",
+    "englishWord": "arm",
+    "turkishSentence": "iki kol",
+    "englishSentence": "two arms",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9562_96square.jpg"
+  },
+  {
+    "turkishWord": "el",
+    "englishWord": "hand",
+    "turkishSentence": "sağ el",
+    "englishSentence": "right hand",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8317_96square.jpg"
+  },
+  {
+    "turkishWord": "parmak",
+    "englishWord": "finger",
+    "turkishSentence": "Beş parmak",
+    "englishSentence": "five fingers",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21797_96square.jpg"
+  },
+  {
+    "turkishWord": "vücut",
+    "englishWord": "body",
+    "turkishSentence": "insan vücudu",
+    "englishSentence": "human body",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21798_96square.jpg"
+  },
+  {
+    "turkishWord": "Mide",
+    "englishWord": "stomach",
+    "turkishSentence": "bir midenin modeli",
+    "englishSentence": "model of a stomach",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8438_96square.jpg"
+  },
+  {
+    "turkishWord": "sırt",
+    "englishWord": "back",
+    "turkishSentence": "Bütün gün ağır şeyler kaldırırken sırtımı incittim.",
+    "englishSentence": "I hurt my back by lifting heavy things all day.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21801_96square.jpg"
+  },
+  {
+    "turkishWord": "göğüs",
+    "englishWord": "chest",
+    "turkishSentence": "Benim göğüs ağrım var.",
+    "englishSentence": "I have chest pain.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21799_96square.jpg"
+  },
+  {
+    "turkishWord": "hemşire",
+    "englishWord": "nurse",
+    "turkishSentence": "Kadın hemşire",
+    "englishSentence": "female nurse",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9349_96square.jpg"
+  },
+  {
+    "turkishWord": "çalışan",
+    "englishWord": "employee",
+    "turkishSentence": "Çalışanlar toplantı odasında bir toplantı gerçekleştiriyorlar.",
+    "englishSentence": "The employees are having a meeting in the boardroom.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/15526_96square.jpg"
+  },
+  {
+    "turkishWord": "polis memuru",
+    "englishWord": "police officer",
+    "turkishSentence": "Üniformalı polis memuru",
+    "englishSentence": "police officer in uniform",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8975_96square.jpg"
+  },
+  {
+    "turkishWord": "aşçı",
+    "englishWord": "cook",
+    "turkishSentence": "O dört yıldızlı bir otelde aşçı.",
+    "englishSentence": "She is a cook at a four-star restaurant.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21802_96square.jpg"
+  },
+  {
+    "turkishWord": "mühendis",
+    "englishWord": "engineer",
+    "turkishSentence": "Ben bir mühendisim.",
+    "englishSentence": "I am an engineer.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/19050_96square.jpg"
+  },
+  {
+    "turkishWord": "doktor",
+    "englishWord": "doctor",
+    "turkishSentence": "Doktor, ayağı inceliyor.",
+    "englishSentence": "The doctor is examining the foot.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/21803_96square.jpg"
+  },
+  {
+    "turkishWord": "yönetici",
+    "englishWord": "manager",
+    "turkishSentence": "Fabrika yöneticisi talimatlar veriyor.",
+    "englishSentence": "The factory manager is giving instructions.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/17412_96square.jpg"
+  },
+  {
+    "turkishWord": "Öğretmen",
+    "englishWord": "teacher",
+    "turkishSentence": "Bir sınıftaki öğretmen",
+    "englishSentence": "teacher in a classroom",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9229_96square.jpg"
+  },
+  {
+    "turkishWord": "programcı",
+    "englishWord": "programmer",
+    "turkishSentence": "Ben bir programcıyım.",
+    "englishSentence": "I am a programmer.",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/8595_96square.jpg"
+  },
+  {
+    "turkishWord": "satıcı",
+    "englishWord": "salesman",
+    "turkishSentence": "Araba satıcısı",
+    "englishSentence": "car salesman",
+    "image": "https://d1pra95f92lrn3.cloudfront.net/media/thumb/9477_96square.jpg"
+  }
+]
